@@ -1,0 +1,6 @@
+.azure
+bin/
+.vscode/
+.idea/
+node_modules/
+obj/
